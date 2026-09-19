@@ -36,7 +36,7 @@ I practiced creating and navigating directories and creating a file using Killer
 - In the above, i used `pwd` to show me the full path of my current working directory. It showed I was in the /root directory.
 - I used `mkdir` to create a directory called linux-practice
 - Used the `ls` command to list any files in the directory. There are no current files so it shows as emoty
-- `cd` command was used to create a directory called linux-practice
+- `cd` command was used to move into the directory called linux-practice
 - `touch` was then used to create a file called example.txt
 - `cd ..` was used to navigate to the parent directory /root 
 
