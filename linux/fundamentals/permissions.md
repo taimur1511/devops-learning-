@@ -29,11 +29,11 @@ d → directory
 
 The remaining nine characters are split into three groups:
 
-rw- r-- r--
-│   │   │
-│   │   └── Others
-│   └────── Group
-└────────── Owner
+rw- Owner
+
+r-- Group
+
+r-- Other
 
 Each group can contain three types of permissions:
 
@@ -64,4 +64,4 @@ Example:
 - I then used `ls -l` to view the permissions which showed lrwxrwxrwx
 - I then used `chmod 775` to change the permissions (used a chmod calculator to get 775)
 - I then used `ls -l` to view the new permissions which showed -rwxrwxr-x
-- This shows the Owner has read, write and execute permissions. The group also has read, write and execute permissions and the Public have only read and execute permissions. 
+- This shows the Owner has read, write and execute permissions. The group also has read, write and execute permissions Other have only read and execute permissions. 
