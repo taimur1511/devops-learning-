@@ -27,5 +27,9 @@ The `touch` command can be used to create empty files
 The `cat` command can be used to display the content of a file 
 `cat` example.txt 
 
+## Practical example 
+I practiced creating and navigating directories and creating files using Killercoda 
+<img width="406" height="214" alt="image" src="https://github.com/user-attachments/assets/71d26bbc-0112-4f72-8d87-7de96a2bcb1b" />
+
 
 
