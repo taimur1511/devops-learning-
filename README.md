@@ -8,8 +8,7 @@ I'm currently working through the CoderCo DevOps Academy, using a combination of
 - Linux
 - Commands
 - Linux permissions and users
-- Shell scripting
-- OverTheWire Bandit
+- OverTheWire Bandit Game 
 
 ## Upcoming Topics 
 As i progress, i'll be documenting the following topics: 
