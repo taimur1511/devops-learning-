@@ -13,30 +13,34 @@ The `useradd` command can be used to create a new user.
 `useradd` username
 
 ## Viewing users
-
-The /etc/passwd file contains information about user accounts on the system.
+The `/etc/passwd` file contains information about user accounts on the system.
 
 The cat command can be used to view its contents:
 
-cat /etc/passwd
-Groups
+`cat` /etc/passwd
 
+## Groups
 Groups are used to organise users and manage permissions.
 
 A user can belong to one or more groups.
 
-Creating a group
+##Creating a group
+The `groupadd` command can be used to create a new group.
 
-The groupadd command can be used to create a new group.
+`groupadd` groupname
 
-groupadd groupname
-Adding a user to a group
+## Adding a user to a group
+The `usermod` command can be used to modify a users account. The `-aG` options can be used to add a user to an existing group.
 
-The usermod command can be used to modify a user's account. The -aG options can be used to add a user to an existing group.
+`usermod -aG` groupname username
 
-usermod -aG groupname username
-Checking group membership
+## Checking group membership
 
-The groups command shows the groups that a user belongs to.
+The `groups` command shows the groups that a user belongs to.
 
-groups username
+`groups` username
+
+## Practical Example
+I practised creating a new user and group using Killercoda.
+
+
