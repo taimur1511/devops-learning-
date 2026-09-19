@@ -38,7 +38,7 @@ The `-type d` option tells find to search specifically for directories.
 
 <img width="389" height="193" alt="image" src="https://github.com/user-attachments/assets/d0bf8444-0366-42d2-b365-3d3a8161c9dc" />
 
--I first created a directory called file-search using the `mkdir` command. 
+- I first created a directory called file-search using the `mkdir` command. 
 - I then navigated into the directory using the `cd` command. 
 - I created three files called file1, file2, file3 using the `touch` command. 
 - I used `ls` to confirm that the files had been created:
