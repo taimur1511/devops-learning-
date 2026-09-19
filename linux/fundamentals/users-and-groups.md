@@ -43,4 +43,38 @@ The `groups` command shows the groups that a user belongs to.
 ## Practical Example
 I practised creating a new user and group using Killercoda.
 
+<img width="676" height="150" alt="image" src="https://github.com/user-attachments/assets/c6ecac6a-8a49-4dfe-b769-06064cc12103" />
+
+- I first created a group called `linux-group`:
+
+- `groupadd linux-group`
+
+- I then created a user called `linux-user`:
+
+- `useradd linux-user`
+
+- Next, I added linux-user to the linux-group supplementary group:
+
+- `usermod -aG linux-group linus-user`
+
+- Used the `groups` command to check which groups the user belonged to:
+
+`groups linux-user`
+
+The output showed:
+
+`linux-user : linux-user linux-group`
+
+- This shows that linux-user belongs to both its primary group, `linux-user`, and the supplementary group, `linux-group`.
+
+- I then used the `id` command to view more detailed information about the user:
+
+`id linux-user`
+
+The output was:
+
+uid=1002(linux-user) gid=1003(linux-user) groups=1003(linux-user),1002(linux-group)
+
+This showed the user's UID, primary GID and group memberships.
+
 
