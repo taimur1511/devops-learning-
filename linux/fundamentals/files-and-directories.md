@@ -1,4 +1,4 @@
-## Files and Directories 
+# Files and Directories 
 Linux uses files and directories to organise information and data.
 
 ## Directories 
