@@ -6,7 +6,7 @@ I'm currently working through the CoderCo DevOps Academy, using a combination of
 ## Current Focus 
 
 - Linux
-- Command line
+- Commands
 - Linux permissions and users
 - Shell scripting
 - OverTheWire Bandit
