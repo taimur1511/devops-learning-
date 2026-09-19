@@ -29,7 +29,15 @@ The `cat` command can be used to display the content of a file
 
 ## Practical example 
 I practiced creating and navigating directories and creating files using Killercoda 
-<img width="406" height="214" alt="image" src="https://github.com/user-attachments/assets/71d26bbc-0112-4f72-8d87-7de96a2bcb1b" />
 
+<img width="397" height="253" alt="image" src="https://github.com/user-attachments/assets/aa05c268-8446-423c-bbc1-b2f7e22e6e9a" />
+
+
+- In the above, i used `pwd` to show me the full path of my current working directory. It showed I was in the /root directory.
+- I used `mkdir` to create a directory called linux-practice
+- Used the `ls` command to list any files in the directory. There are no current files so it shows as emoty
+- `cd` command was used to create a directory called linux-practice
+- `touch` was then used to create a file called example.txt
+- `cd ..` was used to navigate to the parent directory /root 
 
 
