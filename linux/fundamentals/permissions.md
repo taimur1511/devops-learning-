@@ -16,11 +16,11 @@ For example:
 
 An output may look like:
 
--rw-r--r-- 1 root root 0 Sep 19 permissions.txt
+`-rw-r--r--` 1 root root 0 Sep 19 permissions.txt
 
 The first 10 characters show the file type and permissions:
 
--rw-r--r--
+`-rw-r--r--`
 
 The first character identifies the type:
 
