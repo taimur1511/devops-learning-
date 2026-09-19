@@ -24,7 +24,7 @@ Groups are used to organise users and manage permissions.
 
 A user can belong to one or more groups.
 
-##Creating a group
+## Creating a group
 The `groupadd` command can be used to create a new group.
 
 `groupadd` groupname
