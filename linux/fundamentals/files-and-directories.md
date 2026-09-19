@@ -28,7 +28,7 @@ The `cat` command can be used to display the content of a file
 `cat` example.txt 
 
 ## Practical example 
-I practiced creating and navigating directories and creating files using Killercoda 
+I practiced creating and navigating directories and creating a file using Killercoda 
 
 <img width="397" height="253" alt="image" src="https://github.com/user-attachments/assets/aa05c268-8446-423c-bbc1-b2f7e22e6e9a" />
 
