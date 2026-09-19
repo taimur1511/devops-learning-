@@ -61,7 +61,7 @@ Example:
 <img width="459" height="194" alt="image" src="https://github.com/user-attachments/assets/73f9813a-8953-4cb4-bc73-528297d2aa64" />
 
 - I created a file called linux.permissions
-- I then used `ls -l` to view the permissions which showed lrwxrwxrwx
-- I then used `chmod 775` to change the permissions (used a chmod calculator to get 775)
-- I then used `ls -l` to view the new permissions which showed -rwxrwxr-x
-- This shows the Owner has read, write and execute permissions. The group also has read, write and execute permissions Other have only read and execute permissions. 
+- I then used `ls -l` to view the permissions which showed `-rw-r--r--` 
+- I then used `chmod 775` to change the permissions. I used a chmod calculator to understand which numerical value to use.
+- I then used `ls -l` to view the new permissions which showed `-rwxrwxr-x`
+- This shows the Owner has read, write and execute permissions. The group also has read, write and execute permissions and Other only have read and execute permissions and not write permissions 
