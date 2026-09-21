@@ -12,7 +12,7 @@ I used `ls` to list all the files and directories.
 
 I then used `cd` to navigate into the inhere directory.
 
-`ls -a` was used to list all fiels and directories and to not ignore hidden files. 
+`ls -a` was used to list all files and directories and to not ignore hidden files. 
 
 ## What I learned 
 
