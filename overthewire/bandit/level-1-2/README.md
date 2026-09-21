@@ -13,7 +13,7 @@ I used `ls` to list the files in the current directory.
 I then used `cat ./-` to view the file `-`. 
 
 
-## WHat I Learned 
+## What I Learned 
 
 The `./-` after `cat` tell Linux that `-` refer to a file in the current directory. 
 
