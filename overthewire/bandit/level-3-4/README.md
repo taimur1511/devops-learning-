@@ -1,4 +1,4 @@
-# Bandit Level 3-4 
+# Bandit Level 3-4 
 
 ## Challenge 
 
