@@ -14,7 +14,7 @@ I used `cd` to navigate into the inhere directory.
 
 `ls` to list files and directories for inhere. 
 
-`ls -l` to list files in a more detailed format 
+`ls -l` to list files in a more detailed format.
 
 `file ./*` is used to tell me what type everything is in this directory. 
 
