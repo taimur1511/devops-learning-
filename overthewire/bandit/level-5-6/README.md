@@ -22,5 +22,6 @@ The following is what it showed me.
 
 <img width="1982" height="1406" alt="image" src="https://github.com/user-attachments/assets/1ae4d2c8-7354-4569-ad8c-8b388668d1c1" />
 
-It would take me a lot of time to search through each directory and each file within those directories so I used the following: 
+
+It would take me a lot of time to search through each directory and each file within those directories manually so I used the following: 
 
