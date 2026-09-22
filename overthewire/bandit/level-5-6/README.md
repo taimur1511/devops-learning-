@@ -25,4 +25,26 @@ The following is what it showed me.
 
 It would take me a lot of time to search through each directory and each file within those directories manually so I used the following: 
 
+<img width="1318" height="210" alt="image" src="https://github.com/user-attachments/assets/f8e5cb7b-8331-4370-abd2-9a1730703158" />
+
+I used `find -type f` to search for regular files within the inhere directory and its subdirectories.
+
+I then added `-size 1033c`, which searches for files that are exactly 1033 bytes in size.
+
+This returned ./maybehere07/.file2, which matched the file size requirement.
+
+I then used `cat ./maybehere07/.file2` to display the contents of the file.
+
+## What I Learned 
+
+How to use `find -type f` to search specifically for regular files.
+
+How to use `-size 1033c` to search for a file which is exactly 1033 bytes in size. 
+
+How the c in `-size 1033c` stands for bytes.
+
+How to use a file path such as `./maybehere07/.file2` to access a specific file within a subdirectory. 
+
+
+
 
