@@ -45,6 +45,8 @@ How the c in `-size 1033c` stands for bytes.
 
 How to use a file path such as `./maybehere07/.file2` to access a specific file within a subdirectory. 
 
+I learned that the file path can change depending on my current working directory. For example, if I was in the home directory, I could use cat ./inhere/maybehere07/.file2 to access the same file. 
+
 
 
 
