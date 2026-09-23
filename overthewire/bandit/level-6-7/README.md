@@ -14,7 +14,7 @@ owned by group bandit6
 
 Initially I tried searching the server using `find /` followed by the user, group and file size conditions. 
 
-This returned the matching file but also produced a long list of permission denied messages because i didn't have permissions to access certail directories. 
+This returned the matching file but also produced a long list of permission denied messages because i didn't have permissions to access certain directories. 
 
 <img width="1258" height="194" alt="image" src="https://github.com/user-attachments/assets/af4d67e0-da6b-4b6b-99a2-8daa5c811973" />
 
