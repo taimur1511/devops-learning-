@@ -1,4 +1,6 @@
-# Challenge 
+# Bandit Level 6-7
+
+## Challenge 
 
 The password for the next level is stored somewhere on the server and has all of the following properties:
 
