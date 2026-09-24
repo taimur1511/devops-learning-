@@ -12,7 +12,7 @@ First I used `cat` to view the contents of the files data.txt
 
 The output displayed a line of random upper case and lower case letters followed by ==. 
 
-From the challenge description i can see that this files contains base64 encoded data. 
+From the challenge description i can see that this file contains base64 encoded data. 
 
 I used `man base64` to show me the manual page for base 64. 
 
