@@ -8,7 +8,7 @@ Make sure to read the error messages as they are informative.
 
 ## Solution 
 
-I first logged into the server as bandit13 and found the file `sshkey.private`. My knowing where the file is located I can transfer it to my terminal. 
+I first logged into the server as bandit13 and found the file `sshkey.private`.
 
 <img width="1904" height="244" alt="image" src="https://github.com/user-attachments/assets/30fab81c-e45d-4c6d-8eee-bb3bd518c2d3" />
 
