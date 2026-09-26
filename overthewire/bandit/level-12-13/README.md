@@ -21,4 +21,8 @@ I then used `mv` to rename the file and used `ls` to check if the name had chang
 <img width="1044" height="392" alt="image" src="https://github.com/user-attachments/assets/3d66b222-9940-4121-a69b-3b8b429968bf" />
 
 
+<img width="1982" height="1390" alt="image" src="https://github.com/user-attachments/assets/5ea527f3-5fe3-44d4-b1de-a4aa0a97d66a" />
+
+<img width="1982" height="580" alt="image" src="https://github.com/user-attachments/assets/6d1e9cf7-73ea-4cf0-9f0e-05a9fe878a3d" />
+
 
