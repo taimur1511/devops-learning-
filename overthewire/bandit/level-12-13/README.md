@@ -20,7 +20,7 @@ I then used `mv` to rename the file and used `ls` to check if the name had chang
 
 <img width="1044" height="392" alt="image" src="https://github.com/user-attachments/assets/3d66b222-9940-4121-a69b-3b8b429968bf" />
 
-This part took me a while as i had to continuously decompress files and used commands based off of the file type. The manual pages came in handy as they showed the commands i needed to use t decompress files. I also used available resources online.  
+This part took me a while as i had to continuously decompress files and used commands based off of the file type. The manual pages came in handy as they showed the commands i needed to use to decompress files. I also used available resources online.  
 
 I had to keep decompressing and extracting files until it became an ASCII text file. 
 
