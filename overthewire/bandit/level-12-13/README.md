@@ -6,7 +6,7 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 
 ## Solution 
 
-First I viewed the contents of data.txt using the `cat` command and it showed the above. 
+First I viewed the contents of data.txt using the `cat` command and it showed the below. 
 
 <img width="1256" height="1404" alt="image" src="https://github.com/user-attachments/assets/30c11444-0c82-4c7c-8a4e-46e5e99fae27" />
 
