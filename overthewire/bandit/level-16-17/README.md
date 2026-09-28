@@ -19,7 +19,14 @@ I used `openssl s_client -connect localhost: 31518` and `openssl s_client -conne
 
 <img width="1454" height="1266" alt="image" src="https://github.com/user-attachments/assets/ffb2acb8-af11-484d-85c8-dca68d68c169" />
 
-After this step, I had to exit bandit16, create a temporary directory and use the `vim` text editor to save they key in a file. Once this was done, I had to change the permissions of the file using `chmod 400`. Then I logged into Bandit 17 using `ssh -i (file name) bandit17@bandit.labs.overthewire.org -p 2220` 
+After this step, I had to exit bandit16, create a temporary directory and use the `vim` text editor to save they key in a file. Once this was done, I had to change the permissions of the file using `chmod 400`. Then I logged into Bandit 17 using `ssh -i (file name) bandit17@bandit.labs.overthewire.org -p 2220` and was granted access. 
 
 ## What I learned 
-`nmap -p` 
+
+`nmap -p` allows you to scan a range of ports and check which ports are open. 
+
+`-sV` performs service/version detection allowing you to see what is running on the open ports. 
+
+`openssl s_client` can be used to establish an SSL/TLS connection to a service.
+
+
