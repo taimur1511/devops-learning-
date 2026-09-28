@@ -1,4 +1,4 @@
-# Level 11-12
+# Bandit Level 11-12
 
 ## Challenge 
 
