@@ -1,6 +1,6 @@
 # The 'Shebang' Line
 
-A Shebang Line tells the operating system which interpreter should be used when to run a scrip. 
+A Shebang Line tells the operating system which interpreter should be used to run a script. 
 
 For example: `#!/bin/bash`. 
 
