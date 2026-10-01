@@ -25,6 +25,6 @@ I also used `sh` and `bash`. These commands specify which interpreter should be 
 
 <img width="1630" height="528" alt="image" src="https://github.com/user-attachments/assets/4c4ca481-aae9-4d78-abd3-62dcf3257fb0" />
 
-Below is bash script I wrote which can be executed using `./`, `sh` and `bash`. 
+Below is the bash script I wrote which can be executed using `./`, `sh` and `bash`. 
 
 <img width="1994" height="528" alt="image" src="https://github.com/user-attachments/assets/7a44b4dc-e1c8-4929-b288-c3d5d5c4e2cf" />
