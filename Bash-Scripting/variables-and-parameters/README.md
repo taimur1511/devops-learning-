@@ -44,3 +44,20 @@ This is how it was displayed when I ran the script in my terminal.
 
 <img width="1840" height="338" alt="image" src="https://github.com/user-attachments/assets/a0bba29c-b282-474d-8df4-ea330f7b3614" />
 
+## Arithmetic Expansion 
+
+Arithmetic Expansion in Bash allows you to perform maths calculations in a script. 
+
+In the below example, I created two variables, `num1` and `num2` and assigned them values `3` and `15`. 
+
+I then used arithmetic expansion `$(( ))` to add the two values together and store the result in a variable called `result`.  
+
+I then used `echo` to display the calculations in my terminal. 
+
+<img width="1754" height="352" alt="image" src="https://github.com/user-attachments/assets/9f119081-7534-431a-9b7a-f715d0ab3669" />
+
+<img width="1770" height="86" alt="image" src="https://github.com/user-attachments/assets/f2f26628-e5d9-4b5c-8ea5-3a086d0d49f5" />
+
+
+
+
