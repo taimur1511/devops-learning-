@@ -21,3 +21,9 @@ Hello Taimur
 `$name` tells Bash to use the value stored in the `name` variable.
 
 
+<img width="1776" height="272" alt="image" src="https://github.com/user-attachments/assets/3c8a963a-49ce-41f4-a1d9-33320eafa6a1" />
+
+This is what the output looks like in the terminal. 
+
+<img width="1776" height="272" alt="image" src="https://github.com/user-attachments/assets/fe505546-39f7-44dd-a33a-59821c1cbb12" />
+
