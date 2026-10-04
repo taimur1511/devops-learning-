@@ -1,4 +1,7 @@
-# The 'Shebang' Line
+# Intro  
+
+
+## The 'Shebang' Line
 
 A Shebang Line tells the operating system which interpreter should be used to run a script. 
 
@@ -28,3 +31,6 @@ I also used `sh` and `bash`. These commands specify which interpreter should be 
 Below is the bash script I wrote which can be executed using `./`, `sh` and `bash`. 
 
 <img width="1994" height="528" alt="image" src="https://github.com/user-attachments/assets/7a44b4dc-e1c8-4929-b288-c3d5d5c4e2cf" />
+
+
+##
