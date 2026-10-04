@@ -10,7 +10,7 @@ First we would need to place our script in a directory which is in the `PATH` en
 
 From the below example, I added the file to a directory in the PATH environment variable. 
 
-I added it to the `/usr/local/bin` using the `sudo` command directory and made the file executable using `chmod +x`. 
+I added it to the `/usr/local/bin` using the `sudo` and `mv` command and made the file executable using `chmod +x`. 
 
 So when I ran the file without specifying the directory, the Shell was able to find and execute the script. 
 
