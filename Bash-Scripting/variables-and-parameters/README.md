@@ -40,5 +40,7 @@ I also used `$@` to display all of the parameters that were passed to the script
 
 This is how it was displayed when I ran the script in my terminal. 
 
+`hello`, `hi` and `hey` are arguments passed to the script. Depending on the order, they will correspond with the first, second or third Parameter. 
+
 <img width="1840" height="338" alt="image" src="https://github.com/user-attachments/assets/a0bba29c-b282-474d-8df4-ea330f7b3614" />
 
