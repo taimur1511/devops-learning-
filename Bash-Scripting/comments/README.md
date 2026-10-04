@@ -6,7 +6,7 @@ There are two types of comments. Single line comments and multiline comments.
 
 `#` is used to make a single line comment. 
 
-`:` followed by `'` is for a multiline comment. The multiline comment will be whatever is inputed in the single quotation marks. See example below. 
+`:` followed by `''` is for a multiline comment. The multiline comment will be whatever is inputed in the single quotation marks. See example below. 
 
 <img width="1488" height="564" alt="image" src="https://github.com/user-attachments/assets/75eabe9b-0a02-4e2e-813f-cf364f821dee" />
 
