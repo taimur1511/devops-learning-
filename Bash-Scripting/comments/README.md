@@ -14,4 +14,6 @@ As you can see below, if you were to run the file `example.sh` using `./` it wil
 
 <img width="1394" height="238" alt="image" src="https://github.com/user-attachments/assets/45d9903c-9b30-40a4-9e49-6f13e440f1a0" />
 
+Comments can be read in the terminal by using the `cat` command followed by the filename. 
+
 
