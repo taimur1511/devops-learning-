@@ -64,6 +64,8 @@ In the below example I used arithmetic expansion to output the area and the peri
 
 <img width="1854" height="228" alt="image" src="https://github.com/user-attachments/assets/c18f0a98-79e2-4479-a677-def7c2e81f6b" />
 
+Note: I realised I made a mistake for the perimeter. It should be `perimeter=$((2 * (length + width)))` and this should output 34 instead of 17. 
+
 ## Arithmetic Expansion (With Parameters) 
 
 Arithmetic Expansion with parameters allows us to take input from the user or commands and arguments and perform calculations based on those values. 
