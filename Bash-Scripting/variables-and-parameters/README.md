@@ -70,6 +70,15 @@ Note: I realised I made a mistake for the perimeter. It should be `perimeter=$((
 
 Arithmetic Expansion with parameters allows us to take input from the user or commands and arguments and perform calculations based on those values. 
 
+In the example below, instead of using fixed values for the length and width, I used the arguments $1 for the length and $2 for the width.
+
+When I ran the script followed by two numbers, Bash used these arguments as the length and width and calculated the area and perimeter.
+
+<img width="1680" height="386" alt="image" src="https://github.com/user-attachments/assets/ad238486-9771-46a7-b0d2-e809e7de27a3" />
+
+<img width="1548" height="118" alt="image" src="https://github.com/user-attachments/assets/22245c06-4278-4954-8e96-5698804837bd" />
+
+
 
 
 
