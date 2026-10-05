@@ -58,6 +58,14 @@ I then used `echo` to display the calculations in my terminal.
 
 <img width="1770" height="86" alt="image" src="https://github.com/user-attachments/assets/f2f26628-e5d9-4b5c-8ea5-3a086d0d49f5" />
 
+In the below example I used arithmetic expansion to output the area and the perimeter of a rectangle. 
+
+<img width="1722" height="466" alt="image" src="https://github.com/user-attachments/assets/ae8b2e98-e2bc-4f48-b977-49c183bdc6d7" />
+
+<img width="1854" height="228" alt="image" src="https://github.com/user-attachments/assets/c18f0a98-79e2-4479-a677-def7c2e81f6b" />
+
+
+
 
 
 
