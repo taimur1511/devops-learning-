@@ -19,4 +19,4 @@ What this means is that If the grade is greater than 90 & less than 100 then the
 Another example. 
 <img width="2764" height="372" alt="image" src="https://github.com/user-attachments/assets/d8013cdf-3972-4b18-baa3-8fa45fe84997" />
 
-## else and elift
+## else and elif
