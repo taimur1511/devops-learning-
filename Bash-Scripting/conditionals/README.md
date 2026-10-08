@@ -16,4 +16,6 @@ I then used `if [ $grade -ge 90 ] && [ $grade -le 100 ]`.
 What this means is that If the grade is greater than 90 & less than 100 then the output should display "Excellent! You got an A." 
 <img width="2756" height="422" alt="image" src="https://github.com/user-attachments/assets/25066120-0925-4e92-bc2f-48d624b79225" />
 
+Another example. 
+<img width="2764" height="372" alt="image" src="https://github.com/user-attachments/assets/d8013cdf-3972-4b18-baa3-8fa45fe84997" />
 
