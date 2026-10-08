@@ -24,3 +24,8 @@ Another example.
 
 `elif` means "else if". This allows you to check another condition if the previous `if` condition was false. 
 
+In this example I created the variable Temperature and assigned it a value of 25. 
+
+The code below means, if the Temperature is greater than 15, then display "It is Hot outside.". Else if the Temperature is equal to 15 then display "It is Warm outside." If it is neither greater than 15 or equal to 15 then display "It is Cold outside." 
+
+<img width="2752" height="558" alt="image" src="https://github.com/user-attachments/assets/7face270-db8e-4eec-9725-f0343d6f6c27" />
