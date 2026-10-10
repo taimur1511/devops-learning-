@@ -31,3 +31,15 @@ Once the index reaches the number of items in the array, the condition becomes f
 
 <img width="2572" height="360" alt="image" src="https://github.com/user-attachments/assets/926771c7-9692-45ee-b161-12d6d0297142" />
 
+## for Loops 
+
+`for` loops enable you to repeat a block of code for a specified number if iterations. 
+
+`for` start with `do` and end with `done`. 
+
+In the below example, I created a for loop that uses the `seq` command to generate numbers from 1 to 7 and stores each number in the variable `number` as the loop runs.
+
+
+<img width="2716" height="428" alt="image" src="https://github.com/user-attachments/assets/5b87382e-56cf-422b-bd98-7f473b774cde" />
+
+
