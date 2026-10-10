@@ -57,5 +57,26 @@ The output displays `Number:1` and `Number:2` but does not run Number:3 or anyth
 
 <img width="2650" height="402" alt="image" src="https://github.com/user-attachments/assets/0b278890-9185-46a6-b522-2f23969f699e" />
 
+The `continue` statement allows you to skip the current iteration and move on to the next iteration of the loop. 
+
+In the example below, I replaced the `break` statement with the `continue` statement. 
+
+The `continue` statement will skip the iteration if the variables value is equal to 3. 
+
+The output therefore displays 
+
+`Number: 1`
+`Number: 2`
+`Number: 4`
+`Number: 5`
+
+and skips `Number:3`. 
+
+
+<img width="2652" height="386" alt="image" src="https://github.com/user-attachments/assets/cb56d03f-efeb-4c68-a00d-b3822bbd1ecc" />
+
+
+
+
 
 
