@@ -42,4 +42,20 @@ In the below example, I created a for loop that uses the `seq` command to genera
 
 <img width="2716" height="428" alt="image" src="https://github.com/user-attachments/assets/5b87382e-56cf-422b-bd98-7f473b774cde" />
 
+## break and continue 
+
+These statements provide additional control within `for` and `while` loops. They allow you to interrupt or skip iterations based on specific conditions. 
+
+The `break` statement immediately exits the inner most loop it is placed in regardless of the loops condition. 
+
+
+In the example below, I created a `for` loop. I created the variable `i` and assigned it the number 1. I then followed this up with `i<=5` which means the loop continues as long as `i` is less than or equal to 5. `i++` increases the variables value by 1 each time the loops runs. 
+
+`if [ $i -eq 3 ]` checks if the variables value is equal to 3. If the condition is true, the `break` statement stops the loop immediately. 
+
+The output displays `Number:1` and `Number:2` but does not run Number:3 or anything after up until 5 because of the `break` statement. 
+
+<img width="2650" height="402" alt="image" src="https://github.com/user-attachments/assets/0b278890-9185-46a6-b522-2f23969f699e" />
+
+
 
