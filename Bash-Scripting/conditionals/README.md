@@ -30,3 +30,24 @@ The code below means, if the Temperature is greater than 15, then display "It is
 
 <img width="2752" height="558" alt="image" src="https://github.com/user-attachments/assets/7face270-db8e-4eec-9725-f0343d6f6c27" />
 
+## Nested if Statements 
+
+Nested if statements allow us to create more complex decision making structures by embedding if statements within other if statements. 
+
+In this example, I created variables `age` and `grade` and assigned them each a numerical of 18 and 85. 
+
+The code below shows, that if the age is greater than or equal to 18 and the grade is greater than or equal to 80 then the following output will be shown, 
+
+"You are eligible based on age.
+
+You are eligible based on grade.
+
+Congratulations! You are eligible for a Scholarship!" 
+
+If we were to keep the age the same and change the grade to 75, as the grade is below 80, the output would show "You are eligible based on age.
+
+Sorry, your grade is not high enough." 
+
+However, if we were to reduce the age down from 18 and reduce the grade down from 80, then the outout will show "Sorry, you are not eligible. " 
+
+<img width="2664" height="688" alt="image" src="https://github.com/user-attachments/assets/012d9a95-3554-4001-9967-2884fe7da4ea" />
