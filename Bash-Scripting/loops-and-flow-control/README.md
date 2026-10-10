@@ -19,3 +19,15 @@ The output shows that the loop repeats until the count reaches 5. After displayi
 
 <img width="2566" height="374" alt="image" src="https://github.com/user-attachments/assets/4112d262-959a-4c71-a150-73e5fd454009" />
 
+In the below example I created an array containing three items. 
+
+I then created a variable called `index` and assigned it the value 0. This is used to track the current position in the array. 
+
+The `while` loops repeats as long as `index` is less than the number of items in the array. 
+
+`echo` displays the fruit at the current index, and `((index++))` increases the index by 1 each time the loop runs.
+
+Once the index reaches the number of items in the array, the condition becomes false and the loop stops.
+
+<img width="2572" height="360" alt="image" src="https://github.com/user-attachments/assets/926771c7-9692-45ee-b161-12d6d0297142" />
+
