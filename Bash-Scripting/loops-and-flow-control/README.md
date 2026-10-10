@@ -66,8 +66,11 @@ The `continue` statement will skip the iteration if the variables value is equal
 The output therefore displays 
 
 `Number: 1`
+
 `Number: 2`
+
 `Number: 4`
+
 `Number: 5`
 
 and skips `Number:3`. 
