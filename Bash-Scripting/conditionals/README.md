@@ -4,7 +4,7 @@
 
 If statements allow you to introduce decision making logic to your script. 
 
-If statements start with `if` and end with `fi`. 
+For `if` statements, the code is written between `if` and `fi`. 
 
 Some examples of If statements. 
 <img width="1434" height="396" alt="image" src="https://github.com/user-attachments/assets/5b4f7ef6-f4f1-422d-bb42-6a4b68088990" />
