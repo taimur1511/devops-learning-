@@ -14,3 +14,5 @@ I then used `echo` to output "Hello", followed by the value stored in the `name`
 
 <img width="2686" height="506" alt="image" src="https://github.com/user-attachments/assets/756e57b4-2e4e-4b02-8e6c-1ce0b71570ec" />
 
+
+
