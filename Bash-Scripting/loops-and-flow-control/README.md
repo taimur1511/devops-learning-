@@ -73,7 +73,7 @@ The output therefore displays
 
 `Number: 5`
 
-and skips `Number:3`. 
+and skips `Number: 3`. 
 
 
 <img width="2652" height="386" alt="image" src="https://github.com/user-attachments/assets/cb56d03f-efeb-4c68-a00d-b3822bbd1ecc" />
