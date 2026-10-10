@@ -8,7 +8,7 @@ In the example below, I created a function called `hello_world`. I then used `ec
 
 I then created another function called `greet_person` and used `local` to create a variable `name` and assign it the first argument. 
 
-I then used `echoz to output "Hello", followed by the variable. 
+I then used `echo` to output "Hello", followed by the variable. 
 
 `greet_person "Taimur"` will then display Hello,Taimur! 
 
