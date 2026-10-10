@@ -4,7 +4,7 @@ Loops allow you to repeat a set of commands multiple times. Flow control determi
 
 ## while Loops 
 
-`while` Loops allow you to repeatedly execute a block of code as long as a certain conditions stays true. They allow you to execute a block of code until a specific condition becomes false. 
+`while` loops allow you to repeatedly execute a block of code as long as a certain conditions stays true. They allow you to execute a block of code until a specific condition becomes false. 
 
 A `while` loop statement will start with `do` and end with `done`. 
 
