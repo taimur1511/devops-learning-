@@ -6,11 +6,11 @@ Functions and inputs help you organise your code and allow your scripts to work 
 
 In the example below, I created a function called `hello_world`. I then used `echo` to display "Hello World!". 
 
-I then created another function called `greet_person` and used `local` to create a variable `name` and assign it the first argument. 
+I then created another function called `greet_person` and used `local` to create a variable `name` assigning it the first argument passed to the function. 
 
-I then used `echo` to output "Hello", followed by the variable. 
+I then used `echo` to output "Hello", followed by the value stored in the `name` variable. 
 
-`greet_person "Taimur"` will then display Hello,Taimur! 
+`greet_person "Taimur"` will then display Hello, Taimur! 
 
 <img width="2686" height="506" alt="image" src="https://github.com/user-attachments/assets/756e57b4-2e4e-4b02-8e6c-1ce0b71570ec" />
 
