@@ -6,7 +6,7 @@ Loops allow you to repeat a set of commands multiple times. Flow control determi
 
 `while` loops allow you to repeatedly execute a block of code as long as a certain conditions stays true. They allow you to execute a block of code until a specific condition becomes false. 
 
-A `while` loop statement will start with `do` and end with `done`. 
+For `while` loop statement the code is written between `do` and `done`. 
 
 In this example, I created a variable called count and assigned it the value 1. 
 
@@ -35,7 +35,7 @@ Once the index reaches the number of items in the array, the condition becomes f
 
 `for` loops enable you to repeat a block of code for a specified number if iterations. 
 
-`for` start with `do` and end with `done`. 
+For `for` loops the code is written between `do` and `done`. 
 
 In the below example, I created a for loop that uses the `seq` command to generate numbers from 1 to 7 and stores each number in the variable `number` as the loop runs.
 
