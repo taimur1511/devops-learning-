@@ -24,7 +24,7 @@ I used the special character `$#` which holds the count of arguments.
 
 I also used the special character `$0` which contains the name of the script. 
 
-The special character '$@' is used to display all arguments when the script is called. 
+The special character `$@` is used to display all arguments when the script is called. 
 
 I then used `print_names` to call the script. 
 
