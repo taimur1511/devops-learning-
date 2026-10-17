@@ -15,5 +15,22 @@ I then used `echo` to output "Hello", followed by the value stored in the `name`
 
 <img width="2686" height="506" alt="image" src="https://github.com/user-attachments/assets/756e57b4-2e4e-4b02-8e6c-1ce0b71570ec" />
 
+## Parameters 
+Parameters allow us to pass data to functions to perform specific tasks based on provided inputs. 
+
+In the example below. I created a function called `print_names`. 
+
+I used the special character `$#` which holds the count of arguments. 
+
+I also used the special character `$0` which contains the name of the script. 
+
+The special character '$@' is used to display all arguments when the script is called. 
+
+I then used `print_names` to call the script. 
+
+<img width="2748" height="564" alt="image" src="https://github.com/user-attachments/assets/ff96fa10-6724-4d1d-ab2a-23725f0cce18" />
+
+As you can see, the output shows the number of names, the script name, the first and second name and all the names. 
+
 
 
