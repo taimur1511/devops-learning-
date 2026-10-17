@@ -20,11 +20,11 @@ Parameters allow us to pass data to functions to perform specific tasks based on
 
 In the example below. I created a function called `print_names`. 
 
-I used the special character `$#` which holds the count of arguments. 
+I used the special parameter `$#` which holds the count of arguments. 
 
-I also used the special character `$0` which contains the name of the script. 
+I also used the special parameter `$0` which contains the name of the script. 
 
-The special character `$@` is used to display all arguments when the script is called. 
+The special parameter `$@` is used to display all arguments when the script is called. 
 
 I then used `print_names` to call the script. 
 
