@@ -21,8 +21,10 @@ Another example.
 
 ## Operators 
 
-`&&` = AND 
+`&&` = AND
+
 `==` = EQUALS TO
+
 `!=` = NOT EQUAL TO 
 
 ## else and elif
