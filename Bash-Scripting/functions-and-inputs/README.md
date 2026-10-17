@@ -35,7 +35,7 @@ As you can see, the output shows the number of names, the script name, the first
 ## User Inputs
 User inputs allows the script to interact with users and make them more dynamic and responsive. 
 
-In the example below, I created a function call `greet_user`. I used the `read` command to capture the user input and store it in the variable `name`. 
+In the example below, I created a function called `greet_user`. I used the `read` command to capture the user input and store it in the variable `name`. 
 
 On the Terminal on the right, I ran the command and it displayed "What is your name?". I then inputed my name which then displayed "Hello, Taimur!" 
 
