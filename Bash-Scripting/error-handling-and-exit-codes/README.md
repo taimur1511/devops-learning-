@@ -17,3 +17,17 @@ I also used an exit code, `exit 1`, which terminates the script immediately and 
 <img width="2712" height="510" alt="image" src="https://github.com/user-attachments/assets/a60d20c3-c15c-486e-abf2-99c216f2c3e1" />
 
 ## Exit Codes 
+Exit codes are a numerical value which are returned to the system when a command or script ends. 
+
+An exit code of `0` represents success. Any non 0 exit code represents an error. 
+
+In the example below, I used the command `command -v` to check whether the `git` command is available on the system. `2>/dev/null` redirects error messages to /dev/null, preventing them from being displayed in the terminal.
+
+`$?` is this exit status of the the last executed command. 
+
+`if [[ $? -ne 0 ]]` shows, that if the exit status of the last executed command is not equal to 0 then the terminal will output, "git is not installed. Please install git.". This is followed by `exit 1` to immediately terimantes the script. 
+
+I then used the `else` statement to display "git is installed" if `if [[ $? -ne 0 ]]` was not true. 
+
+
+<img width="2758" height="428" alt="image" src="https://github.com/user-attachments/assets/087aaa19-4cf0-4381-a350-925d838faf96" />
