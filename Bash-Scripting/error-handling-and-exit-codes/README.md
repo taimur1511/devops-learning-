@@ -50,7 +50,7 @@ In the example below, the output shows an error. This is because I used `set -u`
 
 <img width="2732" height="238" alt="image" src="https://github.com/user-attachments/assets/4a388dc2-a7a7-47d5-b326-ee691fea0a3b" />
 
-In another example, we see the same result because `W` is undefined variable. 
+In another example, we see the same result because `W` is an undefined variable. 
 
 <img width="2704" height="342" alt="image" src="https://github.com/user-attachments/assets/f92e6055-7567-43b9-bea8-4574b5f9003c" />
 
