@@ -23,7 +23,7 @@ An exit code of `0` represents success. Any non 0 exit code represents an error.
 
 In the example below, I used the command `command -v` to check whether the `git` command is available on the system. `2>/dev/null` redirects error messages to /dev/null, preventing them from being displayed in the terminal.
 
-`$?` is this exit status of the the last executed command. 
+`$?` is the exit status of the the last executed command. 
 
 `if [[ $? -ne 0 ]]` shows, that if the exit status of the last executed command is not equal to 0 then the terminal will output, "git is not installed. Please install git.". This is followed by `exit 1` to immediately terimantes the script. 
 
