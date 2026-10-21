@@ -31,3 +31,11 @@ I then used the `else` statement to display "git is installed" if `if [[ $? -ne 
 
 
 <img width="2758" height="428" alt="image" src="https://github.com/user-attachments/assets/087aaa19-4cf0-4381-a350-925d838faf96" />
+
+## Set -e
+
+`set -e` is a way of handling errors by telling the script to exit when a command fails. This is useful because it will prevent the script from carrying on when something has gone wrong. 
+
+In the example below, the output shows "Before the script" and then an error. This is because we used `set -e` so the script will not carry on for a command which does not exist. In this case, "After the script" will not be displayed because the system does not recognise the command `nonexistentcommand`.     
+
+<img width="2716" height="358" alt="image" src="https://github.com/user-attachments/assets/2104e497-646a-4beb-bd91-16446aac5fed" />
