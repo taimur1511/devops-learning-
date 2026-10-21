@@ -1,5 +1,7 @@
 # Error Handling & Exit Codes 
 
+## Error Handling
+
 In Bash Scripting, error handling is detecting, managing and responding to errors when a script runs, rather than letting them go unnoticed. 
 
 In the example below, I used arithmetic expansion to to divide the number 10 by the number 0. This shows an error in the output as 10 cannot be divided by 0 as this is a mathematical error. 
@@ -14,3 +16,4 @@ I also used an exit code, `exit 1`, which terminates the script immediately and 
 
 <img width="2712" height="510" alt="image" src="https://github.com/user-attachments/assets/a60d20c3-c15c-486e-abf2-99c216f2c3e1" />
 
+## Exit Codes 
