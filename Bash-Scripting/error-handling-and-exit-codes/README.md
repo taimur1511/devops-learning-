@@ -39,3 +39,20 @@ I then used the `else` statement to display "git is installed" if `if [[ $? -ne 
 In the example below, the output shows "Before the script" and then an error. This is because we used `set -e` so the script will not carry on for a command which does not exist. In this case, "After the script" will not be displayed because the system does not recognise the command `nonexistentcommand`.     
 
 <img width="2716" height="358" alt="image" src="https://github.com/user-attachments/assets/2104e497-646a-4beb-bd91-16446aac5fed" />
+
+## Set -u 
+
+`set -u` forces the script to stop if it encounters an unset variable. 
+
+It helps prevent scenarios where missing data could lead to unexpected results. 
+
+In the example below, the output shows an error. This is because I used `set -u` which forced the script to stop because `X` is an undefined variable. 
+
+<img width="2732" height="238" alt="image" src="https://github.com/user-attachments/assets/4a388dc2-a7a7-47d5-b326-ee691fea0a3b" />
+
+
+
+
+
+
+
