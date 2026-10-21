@@ -25,7 +25,7 @@ In the example below, I used the command `command -v` to check whether the `git`
 
 `$?` is the exit status of the the last executed command. 
 
-`if [[ $? -ne 0 ]]` shows, that if the exit status of the last executed command is not equal to 0 then the terminal will output, "git is not installed. Please install git.". This is followed by `exit 1` to immediately terimantes the script. 
+`if [[ $? -ne 0 ]]` shows, that if the exit status of the last executed command is not equal to 0 then the terminal will output, "git is not installed. Please install git.". This is followed by `exit 1` to immediately terimante the script. 
 
 I then used the `else` statement to display "git is installed" if `if [[ $? -ne 0 ]]` was not true. 
 
