@@ -6,6 +6,8 @@ Mission: Create a directory named Arena and then inside it, create three files: 
 
 I used the `mkdir` command to create a directory called `arena`. 
 
+`cd` was used to change the current working directory. 
+
 I then used the `touch` command to create files `warrior.txt`, `mage.txt` and `archer.txt`.  
 
 I then used `ls` to list the contents of the directory. 
