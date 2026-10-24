@@ -55,6 +55,11 @@ In another example, we see the same result because `W` is an undefined variable.
 <img width="2704" height="342" alt="image" src="https://github.com/user-attachments/assets/f92e6055-7567-43b9-bea8-4574b5f9003c" />
 
 ## set -x 
+`set -x` prints each command that will be executed to the terminal before it is executed. This is helpful to follow the flow of a script. 
+
+In the example below I used arithmetic expansion. In the terminal on the right, the commands have been printed. The value of Z is also printed. 
+
+<img width="2712" height="428" alt="image" src="https://github.com/user-attachments/assets/7819cf2b-4fa7-464d-87d8-cf40f3cafe83" />
 
 
 
