@@ -68,6 +68,12 @@ In the below example, the terminal prints each command before executing. It does
 
 <img width="2670" height="416" alt="image" src="https://github.com/user-attachments/assets/ebbe1d62-8737-439c-baf7-efca7e247670" />
 
+## More Set Commands 
+- `set -o nounset` which can be used in the same way as `set -u`. 
+- `set -o errexit` which can be used in the same way as `set -e`.
+- `set -o pipefail` helps detect when a command fails inside a pipeline. In the example below, the cat command fails because of the file not existing, therefore causing the whole pipeline to fail so the `grep` command will not run.
+
+<img width="2716" height="350" alt="image" src="https://github.com/user-attachments/assets/41188780-5de4-4cdb-a9fa-ad643534e337" />
 
 
 
