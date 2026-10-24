@@ -10,3 +10,12 @@ In the example below, the script shows how to read and display environment varia
 
 ## Standard Environment Variables 
 Standard environment variables give us insight into various aspects of the system, the user and the runtime environment. They provide useful information that can help us create more adaptable Bash scripts.
+
+In the example below I used standard environment variables. The output shows the result. 
+
+- `$LOGNAME`: Outputs the Username.
+- `$SHELL`: Outputs the default shell, in this case zsh.
+- `$PWD`: Outputs the current working directory.
+- `$PATH`: Outputs the directories that the shell searches to locate executable commands. 
+
+<img width="2734" height="540" alt="image" src="https://github.com/user-attachments/assets/6c15d49f-2dad-4e25-97e8-184fc2ee38b3" />
