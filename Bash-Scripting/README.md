@@ -10,4 +10,4 @@ This section will document my learning and practical exercises for scripting wit
 - Loops and Flow Control
 - Functions and Inputs
 - Error Handling & Exit Codes 
-- Working with Files 
+
