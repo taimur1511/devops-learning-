@@ -10,7 +10,7 @@ In this case the condition is `[ $number -le 10 ]`.
 
 - `$number` is a variable expansion. The `$` tells the script to retrieve the value stored in the variable `number`.
 - `-le 10` tells the script to retrieve values as long as they are less than or equal to 10.
-- `((number++))` is an arithmetic operation which tells the script to increase the value of the variable `number` by 1.
+- `((number++))` is an arithmetic operation which tells the script to increase the value of the variable `number` by 1 in each iteration. 
 
 In brief, this block of code is telling the script to increase the value of the variable `number` by 1 as long as `$number` is less than or equal to 10. The script stops once the condition is no longer true. 
 
