@@ -61,6 +61,14 @@ In the example below I used arithmetic expansion. In the terminal on the right, 
 
 <img width="2712" height="428" alt="image" src="https://github.com/user-attachments/assets/7819cf2b-4fa7-464d-87d8-cf40f3cafe83" />
 
+## Set -eux 
+This allows you to combine all the `set` commands listed above and use them together. This will stop the script if there is error because of `e`, an unset variable because of `u` and will print the commands in the terminal because of `x`. 
+
+In the below example, the terminal prints each command before executing. It does not proceed with an unset variable and stops at a command that doesn't exist. 
+
+<img width="2670" height="416" alt="image" src="https://github.com/user-attachments/assets/ebbe1d62-8737-439c-baf7-efca7e247670" />
+
+
 
 
 
