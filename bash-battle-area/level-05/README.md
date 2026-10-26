@@ -14,4 +14,6 @@ I then created the files knight.txt, sorcerer.txt and rogue.txt using the `touch
 
 I then used the `if` statement. If the condition is true, the script will create a new directory called Archive and move knight.txt into the directory. It will also display that knight.txt has successfully moved to Archive. 
 
+The output shows that knight.txt has been moved to Archive as it is no longer being listed under Battlefield. 
+
 <img width="2712" height="750" alt="image" src="https://github.com/user-attachments/assets/eca45e11-c477-4324-80ad-39bc7ea16797" />
