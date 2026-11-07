@@ -21,11 +21,20 @@ As i progress, i'll be documenting the following topics:
 - Kubernetes
 
 ## Learning Approach 
-I'm using this repository to document:
+I'm using this repository to document my progress and showcase the practical work I'm completing as I learn more about DevOps.
 
-- Commands and concepts I've learned
-- Practical exercises
-- Problems I've encountered
-- How I solved them
-- Notes and explanations
-- Progress through hands on challenges
+This includes:
+
+- Projects and assignments completed throughout the CoderCo DevOps Academy.
+
+- Practical work where I've applied what I've learned.
+
+- Challenges I've faced and how I've gone about solving them.
+
+- Key learnings and concepts that I think are useful to refer back to.
+
+I've also kept my earlier notes and exercises from Linux, Bash and OverTheWire as a reference.
+
+As I've progressed, I've started to change the way I approach learning. Rather than documenting every command or concept in detail, I'm now focusing more on understanding the important topics and putting what I've learned into practice.
+
+Going forward, I want to use this repository to showcase my projects, assignments and the practical skills I'm developing along the way.
