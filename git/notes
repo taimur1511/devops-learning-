@@ -1,1 +1,11 @@
+## How does Git work? 
 
+Working Directory - This is where you edit your file and make changes
+
+Staging Area - This is where you put files that you want to commit 
+
+Repository - Local Git folder. Once you are on Git commit your files go from the staging area to your repository. 
+
+Flow 
+
+[Working Directory] > git add > [Staging Area] > git commit > [Repository]. 
